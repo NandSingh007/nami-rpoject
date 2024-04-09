@@ -1,0 +1,2 @@
+const imageStyle: {width: string, height: string} = {width: "1.5em", height: "1.5em"};
+const profileImageStyle: {width: string, height: string,borderRadius: string} = {...imageStyle, borderRadius: "50%"}
